@@ -9,23 +9,25 @@ dsds
 
 ### Upgrades
 
-![gift1](gift1.png) shooting speed upgrade
-![gift4](gift41.png) enemy speed downgrade
-![gift5](gift51.png) bullet cooldown upgrade
+![gift1](gift1.png) | shooting speed upgrade  
+![gift4](gift41.png) | enemy speed downgrade  
+![gift5](gift51.png) | bullet cooldown upgrade  
 
 ### Downgrades
 
-![gift2](gift21.png) shooting speed downgrade
+![gift2](gift21.png) shooting speed downgrade  
 ![gift3](gift31.png) enemy speed upgrade
+
 
 
 :arrow_up: Move up  
 :arrow_down: Move down  
-K Super power  
-M Mute  
-P Pause  
-Q Quit  
-ESC While paused, finish current instance of game
+**SPACE** Shoot  
+**K** Super power  
+**M** Mute  
+**P** Pause  
+**Q** Quit  
+**ESC** While paused, finish current instance of game
 
 ## installation instructions
 
