@@ -17,7 +17,7 @@ dsds
 
 
 ### Downgrades
-<table style="width:100%">
+<table style="width:100%" border="0">
   <tr>
     <th>a</th>
     <th>a</th> 
