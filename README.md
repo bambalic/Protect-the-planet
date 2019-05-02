@@ -1,6 +1,6 @@
 # pp-seminarski
 
-**[Installation Instructions](#installation-instructions)**
+**[Installation Instructions](##installation-instructions)**
 sd
 
 
