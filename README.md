@@ -23,8 +23,8 @@ dsds
 ### Downgrades
 
 
-![gift2](gift21.png) shooting speed downgrade  
-![gift3](gift31.png) enemy speed upgrade
+- ![gift2](gift21.png) shooting speed downgrade  
+- ![gift3](gift31.png) enemy speed upgrade
 
 
 
