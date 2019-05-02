@@ -12,7 +12,7 @@ dsds
 :capital_m: Mute  
 :capital_p: Pause
 :capital_q: Quit
-:capital_:  
+:capital_abcd:  
 :a:
 
 ## installation instructions
