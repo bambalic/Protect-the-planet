@@ -17,9 +17,19 @@ dsds
 
 
 ### Downgrades
-
-<table>
-<tr>![gift2](gift21.png) shooting speed downgrade</tr>
+<table style="width:100%">
+  <tr>
+    <th>a</th>
+    <th>a</th> 
+  </tr>
+  <tr>
+    <td>![gift2](gift21.png)</td>
+    <td>shooting speed downgrade</td>
+  </tr>
+  <tr>
+    <td>![gift3](gift31.png)</td>
+    <td>enemy speed upgrade</td> 
+  </tr>
 </table>
 ![gift2](gift21.png) shooting speed downgrade  
 ![gift3](gift31.png) enemy speed upgrade
