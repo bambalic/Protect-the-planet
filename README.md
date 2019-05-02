@@ -7,7 +7,7 @@ sd
 dsds
 
 
-## instalation instructions
+## Installation Instructions
 
 
 sddss
