@@ -6,14 +6,26 @@ sd
 ![a](2019-04-18_8-35-56.png) 
 dsds
 
+
+### Upgrades
+
+![gift1](gift1.png) shooting speed upgrade
+![gift4](gift41.png) enemy speed downgrade
+![gift5](gift51.png) bullet cooldown upgrade
+
+### Downgrades
+
+![gift2](gift21.png) shooting speed downgrade
+![gift3](gift31.png) enemy speed upgrade
+
+
 :arrow_up: Move up  
 :arrow_down: Move down  
-:k: Super power  
-:m: Mute  
-:p: Pause
-:q: Quit
-:capital_abcd:  
-:a:
+K Super power  
+M Mute  
+P Pause  
+Q Quit  
+ESC While paused, finish current instance of game
 
 ## installation instructions
 
