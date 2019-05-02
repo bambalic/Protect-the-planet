@@ -23,7 +23,7 @@ dsds
     <th>a</th> 
   </tr>
   <tr>
-    <td>![gift2](gift21.png)</td>
+    <td><img src="gift21.png"></td>
     <td>shooting speed downgrade</td>
   </tr>
   <tr>
@@ -31,6 +31,7 @@ dsds
     <td>enemy speed upgrade</td> 
   </tr>
 </table>
+
 ![gift2](gift21.png) shooting speed downgrade  
 ![gift3](gift31.png) enemy speed upgrade
 
