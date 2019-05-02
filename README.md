@@ -8,10 +8,10 @@ dsds
 
 :arrow_up: Move up  
 :arrow_down: Move down  
-:capital_k: Super power  
-:capital_m: Mute  
-:capital_p: Pause
-:capital_q: Quit
+:k: Super power  
+:m: Mute  
+:p: Pause
+:q: Quit
 :capital_abcd:  
 :a:
 
